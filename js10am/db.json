@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "bookname": "html full stack",
+      "authorname": "raju",
+      "publishyear": "12-05-2023",
+      "price": "450"
+    },
+    {
+      "id": 2,
+      "bookname": "css basic",
+      "authorname": "ravi sharma",
+      "publishyear": "13-09-2022",
+      "price": "600"
+    },
+    {
+      "id": 3,
+      "bookname": "css basci to advanced",
+      "authorname": "ramesh shukla",
+      "publishyear": "23-09-2024",
+      "price": "560"
+    },
+    {
+      "id": "5128",
+      "bookname": "css advanced",
+      "authorname": "Abhishek",
+      "publishyear": "23-07-2021",
+      "price": "1200"
+    },
+    {
+      "id": "5666",
+      "bookname": "html",
+      "authorname": "sanju",
+      "publishyear": "24-09-2024",
+      "price": "450"
+    }
+  ]
+}
